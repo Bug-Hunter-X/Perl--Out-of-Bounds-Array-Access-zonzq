@@ -1,0 +1,3 @@
+This repository demonstrates a common error in Perl programming: accessing an element outside the bounds of an array.  The `bug.pl` file contains the erroneous code, which attempts to access the 4th element (index 3) of a 3-element array.  The `bugSolution.pl` file provides a corrected version that checks for valid array indices before accessing them.
+
+This example highlights the importance of carefully checking array bounds in Perl to prevent unexpected behavior and program crashes.
